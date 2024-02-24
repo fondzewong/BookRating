@@ -10,7 +10,9 @@ In a world brimming with books, selecting the best reads can be daunting. Utiliz
 •	Dataset Description
 •	Project Objectives
 •	Getting Started
+
 •	Prerequisites
+
 •	Installation
 •	Usage
 •	Project Structure
