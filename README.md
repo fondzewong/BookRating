@@ -44,7 +44,7 @@ This project leverages Python and several machine learning libraries to predict 
 **Dataset Description**
 The dataset includes the following attributes for each book:
 
-    •	bookID: Unique identification number
+    •bookID: Unique identification number
     
     •	title: Book title
     
