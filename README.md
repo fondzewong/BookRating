@@ -1,6 +1,7 @@
 **Book Rating Prediction Model**
 
 **Project Overview**
+
 In a world brimming with books, selecting the best reads can be daunting. Utilizing a dataset curated from Goodreads, encompassing real user ratings and reviews, this project aims to simplify that choice. Our goal is to develop a predictive model capable of forecasting a book's rating, thereby guiding readers toward highly regarded titles.
 
 **Table of Contents**
